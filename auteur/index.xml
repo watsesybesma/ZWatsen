@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>over de auteur on ZWatsen</title>
+    <link>https://watsesybesma.github.io/ZWatsen/auteur/</link>
+    <description>Recent content in over de auteur on ZWatsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Watse Sybesma</copyright>
+    <lastBuildDate>Mon, 20 Feb 2017 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="https://watsesybesma.github.io/ZWatsen/auteur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

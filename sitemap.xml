@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://watsesybesma.github.io/ZWatsen/portfolio/20180411_mijmeringen_leiden/</loc>
+    <lastmod>2018-04-11T02:53:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://watsesybesma.github.io/ZWatsen/portfolio/20180406_theseus/</loc>
-    <lastmod>2018-03-27T02:53:00+05:30</lastmod>
+    <lastmod>2018-04-06T02:53:00+05:30</lastmod>
   </url>
   
   <url>
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://watsesybesma.github.io/ZWatsen/about/</loc>
+    <loc>https://watsesybesma.github.io/ZWatsen/auteur/</loc>
     <lastmod>2017-02-20T21:05:33+05:30</lastmod>
   </url>
   
@@ -93,17 +98,17 @@
   </url>
   
   <url>
-    <loc>https://watsesybesma.github.io/ZWatsen/about4/</loc>
+    <loc>https://watsesybesma.github.io/ZWatsen/volgen/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://watsesybesma.github.io/ZWatsen/about2/</loc>
+    <loc>https://watsesybesma.github.io/ZWatsen/labels/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://watsesybesma.github.io/ZWatsen/about3/</loc>
+    <loc>https://watsesybesma.github.io/ZWatsen/over/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
@@ -114,7 +119,7 @@
   
   <url>
     <loc>https://watsesybesma.github.io/ZWatsen/portfolio/</loc>
-    <lastmod>2018-03-27T02:53:00+05:30</lastmod>
+    <lastmod>2018-04-11T02:53:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +130,7 @@
   
   <url>
     <loc>https://watsesybesma.github.io/ZWatsen/</loc>
-    <lastmod>2018-03-27T02:53:00+05:30</lastmod>
+    <lastmod>2018-04-11T02:53:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
